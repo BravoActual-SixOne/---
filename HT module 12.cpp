@@ -1,6 +1,7 @@
 ﻿#include <iostream>
 #include <string>
 #include <stdexcept> 
+#include <vector>
 using namespace std;
 
 //bool IsKPeriodic(const string& str, int K)
@@ -27,11 +28,6 @@ using namespace std;
 //
 //    return true;
 //}
-
-#include <iostream>
-#include <vector>
-#include <string>
-#include <stdexcept>
 
 using namespace std;
 
