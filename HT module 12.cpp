@@ -29,8 +29,6 @@ using namespace std;
 //    return true;
 //}
 
-using namespace std;
-
 // Префикс-функция КМП
 vector<int> computePrefix(const string& pattern) {
     int m = pattern.length();
